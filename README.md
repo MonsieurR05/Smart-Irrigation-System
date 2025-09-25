@@ -37,7 +37,7 @@ An **IoT-based Smart Irrigation System** using **Arduino UNO** that monitors soi
 ---
 
 ## 🔌 Circuit Diagram  
-![Circuit Diagram](circuit-diagram.png)  
+![Circuit Diagram](./Smart_Irrigation/Smart_Irrigation/circuit-diagram.png)  
 
 ---
 
