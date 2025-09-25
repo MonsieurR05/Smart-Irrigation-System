@@ -14,7 +14,7 @@ An **IoT-based Smart Irrigation System** using **Arduino UNO** that monitors soi
 ---
 
 ## 📐 System Architecture  
-![Block Diagram](./block-diagram.png)  
+![Block Diagram](./Smart_Irrigation/Smart_Irrigation/block-diagram.png)  
 
 - **Sensors**:  
   - Soil Moisture Sensor → Detects soil water content  
